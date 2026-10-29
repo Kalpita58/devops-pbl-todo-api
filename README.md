@@ -60,3 +60,4 @@ This project demonstrates a Flask Todo API deployed through a DevOps pipeline.
 - POST /todos : Add a new task
 - GET /health : Check application health
 
+Automatic CI trigger verification.
